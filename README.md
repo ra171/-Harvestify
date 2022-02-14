@@ -23,7 +23,9 @@ For the last application, that is the plant disease prediction application, the 
 DATA SOURCE 📊
 
 Crop recommendation dataset (custom built dataset)
+
 Fertilizer suggestion dataset (custom built dataset)
+
 Disease detection dataset
 
 
