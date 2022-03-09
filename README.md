@@ -22,11 +22,25 @@ For the last application, that is the plant disease prediction application, the 
 
 DATA SOURCE 📊
 
-Crop recommendation dataset (custom built dataset)
+Crop recommendation dataset (From Kaggle)
 
-Fertilizer suggestion dataset (custom built dataset)
+Fertilizer suggestion dataset (from Kaggle)
 
-Disease detection dataset
+Disease detection dataset (From kaggle)
+
+## DEMO
+
+- ### Crop recommendation system
+
+![demo](https://media.giphy.com/media/90JbjdAa5nDq3TJh5u/giphy.gif)
+
+- ### Fertilizer suggestion system
+
+![demo](https://media.giphy.com/media/FLftUXMFo8N2bBjAXq/giphy.gif)
+
+
+- ### Disease Detection system
+![demo](https://media.giphy.com/media/NnMwEp2tGZdfnJbyjr/giphy.gif)
 
 
 
